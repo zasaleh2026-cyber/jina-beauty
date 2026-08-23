@@ -1,0 +1,12 @@
+{
+  "site_name": "JINA BEAUTY ^& PERFUMES",
+  "common": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "cart": "Cart",
+    "search": "Search for your favorite perfume...",
+    "add_to_cart": "Add to Cart",
+    "buy_now": "Buy Now"
+  }
+}
